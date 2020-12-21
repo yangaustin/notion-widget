@@ -21,7 +21,6 @@ h1 {
 }
 
 
-/*CSS START*/
 
 .full-table {
     display: table;
